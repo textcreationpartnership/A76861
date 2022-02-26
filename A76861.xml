@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloudy field, or, The great engagement of the English and Scottish forces beyond sterling; with the manner of how Major Gen. Massey's Lieu colonel led on the forlorn hope against Col. Morgan, and charged each other with abundance of courage and resolution. The particulars of the fight, the event and success thereof, the number killed, taken, and wounded on both sides, and the commissions granted in the name of the King of Scots, to the English red coats that come in to his assistance. Likevvise, the imbodying of the tvvo armies on both sides, the interposing of General Monk neer the mountains, the advancing of Col. Lilburn to his assistance, the besieging of one of our chief castles, and the marching of some of the cavalry towards Cumberland.</title>
+            <title>Bloudy field.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76861</idno>
+            <idno type="STC">Wing B3234</idno>
+            <idno type="STC">Thomason E733_16</idno>
+            <idno type="STC">ESTC R206913</idno>
+            <idno type="EEBO-CITATION">99866003</idno>
+            <idno type="PROQUEST">99866003</idno>
+            <idno type="VID">118262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118262)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E733[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloudy field, or, The great engagement of the English and Scottish forces beyond sterling; with the manner of how Major Gen. Massey's Lieu colonel led on the forlorn hope against Col. Morgan, and charged each other with abundance of courage and resolution. The particulars of the fight, the event and success thereof, the number killed, taken, and wounded on both sides, and the commissions granted in the name of the King of Scots, to the English red coats that come in to his assistance. Likevvise, the imbodying of the tvvo armies on both sides, the interposing of General Monk neer the mountains, the advancing of Col. Lilburn to his assistance, the besieging of one of our chief castles, and the marching of some of the cavalry towards Cumberland.</title>
+                  <title>Bloudy field.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for George Horton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 8 = postscript.</note>
+                  <note>Annotation on Thomason copy: "Ap: 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History, Military --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118262:1" rendition="simple:additions"/>
+            <p>THE BLOUDY FIELD, OR, The great Engagement of the Engliſh and Scottiſh Forces beyond Sterling; with the man<g ref="char:EOLhyphen"/>ner how Major Gen. <hi>Maſſey's</hi> Lieu colonel led on the Forlorn Hope againſt Col. <hi>Morgan,</hi> and charged each other with abundance of Courage and Reſolution.</p>
+            <p>The Particulars of the Fight, the event and ſucceſs thereof, the number killed, taken, and wounded on both ſides, and the Commiſſions granted in the name of the King of <hi>Scots,</hi> to the Engliſh Red coats that come in to his aſſiſtance.</p>
+            <p>Likevviſe, the imbodying of the tvvo Ar<g ref="char:EOLhyphen"/>mies on both ſides, the interpoſing of General <hi>Monk</hi> neer the Mountains, the advancing of Col. <hi>Lilburn</hi> to his aſſiſtance, the beſieging of one of our chief Caſtles, and the marching of ſome of the Cavalry towards <hi>Cumberland.</hi>
+            </p>
+            <p>Imprinted at <hi>London</hi> for <hi>George Horton,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118262:2"/>
+            <pb n="3" facs="tcp:118262:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my laſt of the 15 inſtant, here hath hapned a great change and alteration; no leſs then 1000 new foot are gone in to the enemy, and General Middleton hath taken the whole charge of the Army, reſolving to force his paſſage through our forces, if he can, and to march Southward. The whole body is drawn up into a Regimental way, and Col. Maſſey's Lieu. col. is commander in chief of the Eng<g ref="char:EOLhyphen"/>liſh Cavalry, conſiſting of about 1500 horſ with whom he made his way through into Roſs, where little Col. Morgan attended his motion, and drew out a conſiderable
+<pb n="4" facs="tcp:118262:3"/>party to receiv them, but being over pow<g ref="char:EOLhyphen"/>red, and having received a deſperate charge, were forced to wheel off towards Dingwel, which the little Col perceiving immediatly advanced with 700 horſe, and coming near them, gave Order, that not a man ſhould fire til he came within a horſe length of the enemy, and then to throw their piſtols in their faces, &amp; ſo to fal in with their ſwords, which accordingly they did, and after a te<g ref="char:EOLhyphen"/>dious and ſharp Conflict, diſpierced theſe valiant Heroes, took about 100 priſoners, and killed many upon the place; but not without ſome loſs. Nevertheleſs, coming to a Paſs 5 miles from Dingwel, they rallyed, and ſo conſequently may be able to defend it til the Army comes up.</p>
+            <p>Maj. Gen. Dylar has beſieged Sinclair Caſtle with 900 foot, and five Troops of Horſe, and ſummon'd the Governor; who
+<pb n="5" facs="tcp:118262:3"/>returned an Anſwer from the mouth of the Canon, and is reſolved to diſpute it with fiery Arguments. Lieu. Col. Irwin is re<g ref="char:EOLhyphen"/>turned from the Borders of England with ſome priſoners, and as he paſſed by Aber<g ref="char:EOLhyphen"/>foy Caſtle gave them a Volley, but made no further attempt. Ruthin Caſtle is in ſome danger; but ſupplyes are gone both in the Primroſe and Sparrow. The people are mad from all parts to be ingaged, and we fear the further ſpreading of this great in<g ref="char:EOLhyphen"/>ſurrection, notwithſtanding the great over<g ref="char:EOLhyphen"/>throw given to the Earl of Selkeith, and the Load Noughton, whoſe parties were ſo diſſipated that not ten men were left in a company, beſides above 250 (as vve hear) vvere ſlain upon the place. Sundry other diſputes hath hapned, and many deſperate engagements, vvherein our Atchievements (ſometimes hath been crovvn'd vvith try<g ref="char:EOLhyphen"/>umphant ſucceſs.</p>
+            <pb n="6" facs="tcp:118262:4"/>
+            <p>For Col. Fitch advancing to a Paſs, and con<g ref="char:EOLhyphen"/>ceiving it feaſible, made ſo dexterious an attempt, that after an houres diſpute, he beat them out of their Trenches, poſſeſſed the Works, took four picces of Canons, killed divers, and took about 150 priſoners; but not without ſome loſs.</p>
+            <p>Since which time, Gen. Middleton has had a ran<g ref="char:EOLhyphen"/>devouz in Southerland, unto whoſe aſſiſtance the Earl of Seafort, and the Lord Mac-Aldow are come in with eleven hundred horſe and foot; ſo that they now ſpeak themſelves to be no leſs then 12000 horſe and foot: But we deem them to be not a<g ref="char:EOLhyphen"/>bove 5000; and their main Body continues in Sou<g ref="char:EOLhyphen"/>therland; againſt whom Col. Monk is marched with 850 Horſe, and 2000 Foot, which the enemy perceiving, drew forth about 1500 horſe and foot, under the Command of Sir Arthur Forbis, who marched up in three ſeveral Bodies to maintain a Paſs againſt our forces, and to fight them: inſo<g ref="char:EOLhyphen"/>much, that upon Major Bridges advance with our Forlorn-Hope, Sir George drew forth above 300 Engliſh that had deſerted their Colours, and charg<g ref="char:EOLhyphen"/>ed in perſon with them very puiſſantly; but they were as gallantly received, and charged each other through and through: yet ſo dubious was the con<g ref="char:EOLhyphen"/>flict, that for a time it ſeemed very diſputable, till
+<pb n="7" facs="tcp:118262:4"/>at laſt, the additional Forces came up, and put a pe<g ref="char:EOLhyphen"/>riod to the diſpute, taking divers priſoners, and kil<g ref="char:EOLhyphen"/>ling many; and 'tis ſaid, that Monro eſcaped nar<g ref="char:EOLhyphen"/>rowly: In this Conflict we loſt about 20 men, and 30 wounded. The enemies loſs is conceived to be treble.</p>
+            <p>As ſoon as the additional forces come up, We intend to take the field, and interpoſe, if poſſible, between General Middleton, Glencairn, Kenmore, and Loftus, who threaten fire and ſword to all that will not come in and riſe with them. And they give out, that they will rather engage with Us then haz<g ref="char:EOLhyphen"/>zard going through the Hills, they being ſo moun<g ref="char:EOLhyphen"/>tainous and impaſſable, knowing that it will be the ruine of their horſes, and moſt of their Foot.</p>
+            <p>We expect a ſudden Engagement, and the ad<g ref="char:EOLhyphen"/>ditional Forces and new Levies on both ſides are drawing up to diſpute the quarrel: ſo that conſe<g ref="char:EOLhyphen"/>quently it may prove as deſperate an en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agement as ever yet hapned. The juſtneſs of the Cauſe carry it.</p>
+            <closer>
+               <dateline>
+                  <hi>Edenborough</hi> 
+                  <date>
+                     <hi>April</hi> 26. 1654.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:118262:5"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>UPon the cloſe of the precedent Letter, arrived a Poſt from the North, who intimateth, that his Excellency General Monk is got beyond the Enemy, and interpoſes between the mountains and General Middleton, ſo that now a ſudden engage<g ref="char:EOLhyphen"/>ment is expected between the two main Bodies, and ſome notable Paſſes has already been diſputed, but not with too much Conqueſt on either ſide: For, thoſe Engliſh that have deſerted Us, are as full of policy as valour, and fight with great courage and reſolution, and for the encouragement of others, di<g ref="char:EOLhyphen"/>vers are made Officers, &amp; to that end, ſeveral Com<g ref="char:EOLhyphen"/>miſſions are iſſued forth in the name of Charles Stuart. Col. Lilburn, Col. Daniel, and Col. Fitches Regiments are marching towards Dingwel, and our Deſign is to ſurround them (if we can) and then en<g ref="char:EOLhyphen"/>gage them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
